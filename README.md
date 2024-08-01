@@ -1,3 +1,5 @@
+Welcome to the Upskill Python Internship Project Repository! This repository showcases a Python project that completed during my internship program.
+
 ## How to Run on Your Laptop?
 - **1. Install Python:** Ensure Python is installed on your laptop. You can download it from <a href="python.org">python.org</a>.
 - **2. Install Libraries:** Open a terminal and install the required libraries using **pip install cryptography sqlite3**.
